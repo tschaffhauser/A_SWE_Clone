@@ -1,0 +1,2 @@
+Apache: https://httpd.apache.org/
+Duke Nukem 3D: http://www.moddb.com/games/duke-nukem-3d/downloads/duke-nukem-3d-source-code
